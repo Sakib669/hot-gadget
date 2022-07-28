@@ -1,0 +1,26 @@
+.carousel-item{
+    padding: 20px 90px;
+}
+.carousel-item p{
+    font-weight: 300;
+    color: gray;
+}
+.buy-now{
+    border: none;
+    padding: 10px 25px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+.see-all{
+    color: #ffd000;
+    font-weight: bold;
+    text-decoration: none;
+}
+.underbox{
+    height: 7px;
+    width: 100px;
+    background-image: linear-gradient(-45deg,#ff6f00, #ffd000);
+    border-radius: 20px;
+    margin: 0px auto;
+}
